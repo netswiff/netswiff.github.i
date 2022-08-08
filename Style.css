@@ -1,0 +1,47 @@
+/*Google fonts cdn*/
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto:ital@1&display=swap');
+
+/*google fonts
+font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+*/
+
+{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+ul{
+	margin: 0px;
+	padding: 0px;
+}
+li{
+	list-style:none;
+}
+a{
+	text-decoration: none;
+}
+
+/*Banner section*/
+.banner-btn{
+	padding: 13px 20px;
+	font-size: 17px;
+	font-weight: 400;
+	box-shadow: 0 26px 46px rgb(241 139 98/50%);
+}
+
+.banner content h1{
+	color: #213056;
+	font-size:70px ;
+	font-weight: 800;
+
+}
+
+.banner content p{
+	color: #213053;
+	opacity: 0.9;
+}
